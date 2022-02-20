@@ -1,0 +1,3 @@
+"The Best Selling Product in Terms of (Quantity) has:"	["StockCode: 84077", "Total Quantity: 108545.0"]
+"The Best Selling Product in Terms of (Revenues) has:"	["StockCode: 22423", "Total Revenues: 327813.6500000002"]
+
